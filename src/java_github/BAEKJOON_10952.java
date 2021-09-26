@@ -23,3 +23,4 @@ public class BAEKJOON_10952 {
 		}
 	}
 }
+
