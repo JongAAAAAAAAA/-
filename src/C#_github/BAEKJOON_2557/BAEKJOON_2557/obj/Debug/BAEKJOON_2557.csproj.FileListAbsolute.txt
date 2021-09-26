@@ -1,6 +1,0 @@
-C:\Users\지현종\Documents\Visual Studio 2013\Projects_CS\BAEKJOON_2557\BAEKJOON_2557\bin\Debug\BAEKJOON_2557.exe.config
-C:\Users\지현종\Documents\Visual Studio 2013\Projects_CS\BAEKJOON_2557\BAEKJOON_2557\bin\Debug\BAEKJOON_2557.exe
-C:\Users\지현종\Documents\Visual Studio 2013\Projects_CS\BAEKJOON_2557\BAEKJOON_2557\bin\Debug\BAEKJOON_2557.pdb
-C:\Users\지현종\Documents\Visual Studio 2013\Projects_CS\BAEKJOON_2557\BAEKJOON_2557\obj\Debug\BAEKJOON_2557.csprojResolveAssemblyReference.cache
-C:\Users\지현종\Documents\Visual Studio 2013\Projects_CS\BAEKJOON_2557\BAEKJOON_2557\obj\Debug\BAEKJOON_2557.exe
-C:\Users\지현종\Documents\Visual Studio 2013\Projects_CS\BAEKJOON_2557\BAEKJOON_2557\obj\Debug\BAEKJOON_2557.pdb
