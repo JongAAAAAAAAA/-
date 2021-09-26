@@ -20,3 +20,4 @@ public class BAEKJOON_10818 {
 		System.out.println(arr[0]+ " " + arr[N-1]);
 	}
 }
+
